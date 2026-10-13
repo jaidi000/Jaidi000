@@ -1,14 +1,25 @@
-Hi 👋 My name is Jaidi
-======================
+# Hi there, I'm Muhammad Jaidi!
 
-Web Developer
--------------
+I'm a passionate Full-Stack Developer and an Informatics Engineering student. I enjoy building responsive web applications, experimenting with server infrastructure, and leveraging AI to streamline development.
 
-I am a freshman majoring in Informatics Engineering (employee class) with a professional background as an admin for 2 years and a branch manager for 8 months. Have skills in administrative management, team leadership, and good communication. Committed to developing technical expertise in IT and digital technology.
+### About Me
+- Currently studying **Teknik Informatika** at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari (UNISKA).
+- Building comprehensive full-stack solutions, from e-commerce platforms to inventory management systems.
+- Exploring and managing 24/7 headless home servers (Docker, Armbian, CasaOS, Tailscale).
+- Currently learning more about modern web architectures and building a minimalist personal portfolio.
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [muhammadjaidi.000@gmail.com](mailto:muhammadjaidi.000@gmail.com)
-* 🧠  I'm learning Next JS
+### Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, PHP
+- **Databases:** Supabase, MySQL, PostgreSQL, MongoDB
+- **Languages:** JavaScript, C, C++, Python
+- **DevOps & Infrastructure:** Docker, Linux (Armbian), Cloudflare Tunnels, Git
+
+### Let's Connect
+- **Instagram:** [@jaidi.code](https://www.instagram.com/jaidi.code)
+- **Portfolio:** *(Coming Soon)*
+
+---
 
 ### Skills
 
