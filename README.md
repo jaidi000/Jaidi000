@@ -17,7 +17,7 @@ I'm a passionate Full-Stack Developer and an Informatics Engineering student. I 
 
 ### Let's Connect
 - **Instagram:** [@jaidi.code](https://www.instagram.com/jaidi.code)
-- **Portfolio:** *https://https://jaidi.my.id*
+- **Portfolio:** *jaidi.my.id*
 
 ---
 
