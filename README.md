@@ -10,15 +10,15 @@ I work across two desks: the production floor and the code editor. Alongside lea
 
 ### What I Focus On
 - **Operational Web Systems:** End-to-end applications for inventory control, multi-branch stock mutations, sales tracking, and operational reporting.
+- **Micro-SaaS for Small Businesses:** Lightweight, affordable tools that help UMKM go digital without heavy setup.
 - **Self-Hosted Infrastructure:** Deploying and maintaining 24/7 headless Linux home servers powered by Docker, Armbian, Tailscale, and Cloudflare Tunnels.
-- **Practical Workflow Tools:** Lightweight web portals and digital catalogs built to reduce repetitive manual administration.
 
 ### Selected Work
 - **[HJS-ERP](https://jaidi.my.id/proyek/hjs-erp)** — Multi-branch inventory, stock request, sales, and operational reporting system for heavy equipment spare parts distribution.  
   `Next.js` · `PostgreSQL` · `Supabase` · `Tailwind CSS`
-- **[ClassPort](https://classport-uniska.vercel.app)** ([Case Study](https://jaidi.my.id/proyek/classport)) — Mobile-first academic portal centralizing course materials, deadlines, and assignment progress for university classmates.  
+- **[Tautoko](https://jaidi.my.id/proyek/tautoko)** — Micro-SaaS for UMKM to run daily business operations digitally.  
   `Next.js` · `Supabase` · `Tailwind CSS`
-- **[GlamourStore](https://glamourstore.my.id)** ([Case Study](https://jaidi.my.id/proyek/glamourstore)) — Online apparel catalog featuring product search, pricing, and direct-to-seller ordering.  
+- **[ClassPort](https://classport-uniska.vercel.app)** ([Case Study](https://jaidi.my.id/proyek/classport)) — Mobile-first academic portal centralizing course materials, deadlines, and assignment progress for university classmates.  
   `Next.js` · `Supabase` · `Tailwind CSS`
 
 ### Technical Stack
