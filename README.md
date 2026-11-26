@@ -18,14 +18,14 @@ I work across two desks: the production floor and the code editor. Alongside lea
   `Next.js` · `PostgreSQL` · `Supabase` · `Tailwind CSS`
 - **[Tautoko](https://jaidi.my.id/proyek/tautoko)** — Micro-SaaS for UMKM to run daily business operations digitally.  
   `Next.js` · `Supabase` · `Tailwind CSS`
-- **[ClassPort](https://classport-uniska.vercel.app)** ([Case Study](https://jaidi.my.id/proyek/classport)) — Mobile-first academic portal centralizing course materials, deadlines, and assignment progress for university classmates.  
+- **[ClassPort](https://jaidi.my.id/proyek/classport)** — Mobile-first academic portal centralizing course materials, deadlines, and assignment progress for university classmates.  
   `Next.js` · `Supabase` · `Tailwind CSS`
 
 ### Technical Stack
 - **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
 - **Backend & Database:** Node.js, Express.js, PHP, PostgreSQL, Supabase, MySQL, MongoDB
 - **Languages:** JavaScript, TypeScript, Python, C, C++
-- **Infrastructure & Tools:** Docker, Linux (Armbian), Tailscale, Cloudflare Tunnels, Git
+- **Infrastructure & Tools:** Docker, Linux, Tailscale, Cloudflare Tunnels, Git
 
 ---
 
